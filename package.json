@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bryonjacob/kinetic",
   "dependencies": {
-    "express": "^4.13.0"
+    "express": "^4.13.0",
+    "kinesis": "^1.2.2"
   }
 }
